@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nick Prooij</h1>
 
-- 🌱 I’m currently studying software development at the Bit Academy.
-
 - 👨‍💻 All of my projects are available at [https://github.com/NickProoij](https://github.com/NickProoij)
 
 - 👀 I'm interested in BackEnd development and C programming.
